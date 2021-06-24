@@ -41,3 +41,33 @@
 .catagory img{
     max-width: 100px;
 }
+.card-bottom{
+    background-color: #ff458e;
+    color: white;
+}
+.shoes{
+    margin-top: 90px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.backpack{
+    margin-top: 90px;
+}
+    
+#subscribe{
+    height: 300px;
+    background-color: thistle;
+    margin-top: 90px;
+}
+.style{
+    background-color: #ff458e;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+}
