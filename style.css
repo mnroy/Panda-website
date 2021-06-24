@@ -7,7 +7,7 @@
     font-weight: bold;
 }
 .carousel{
-    margin-top: 40px;
+    margin-top: 80px;
 }
 
 .cat-1{
@@ -70,4 +70,12 @@
     margin-top: 10px;
     color: white;
     font-weight: bold;
+}
+footer{
+    text-align: center;
+    margin-top: 90px;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
 }
