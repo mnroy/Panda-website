@@ -1,4 +1,43 @@
 .background{
     background-color: #fceae8;
-    padding: 50px 140px;
+    padding: 80px 140px;
+}
+.price{
+    color: #ff136f;
+    font-weight: bold;
+}
+.carousel{
+    margin-top: 40px;
+}
+
+.cat-1{
+    background-color: rgb(255, 165, 0);
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fafafa;
+    border-radius: 10px;
+}
+.cat-2{
+    background-color: rgb(218, 112, 214);
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fafafa;
+    border-radius: 10px;
+}
+.cat-3{
+    background-color: rgb(0, 0, 255);
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fafafa;
+    border-radius: 10px;
+}
+
+.catagory{
+     margin-top: 90px;
+}
+.catagory img{
+    max-width: 100px;
 }
